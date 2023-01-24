@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>FractalBuilder.qml</file>
+        <file>lSystem.mjs</file>
+        <file>Menu2.qml</file>
+        <file>Menu3.qml</file>
+        <file>fonts/Comforter-Regular.ttf</file>
+        <file>fonts/MarckScript-Regular.ttf</file>
+        <file>Strip.qml</file>
+    </qresource>
+</RCC>
